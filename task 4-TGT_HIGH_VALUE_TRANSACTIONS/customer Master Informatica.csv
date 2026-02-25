@@ -1,0 +1,21 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,CITY,STATE,REGISTRATION_DATE
+101,Rahul Sharma,rahul.sharma@email.com,Mumbai,Maharashtra,15-03-2024
+102,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,22-05-2024
+103,Amit Kumar,amit.kumar@email.com,Delhi,Delhi,10-01-2024
+104,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,08-07-2024
+105,Vikram Singh,vikram.singh@email.com,Jaipur,Rajasthan,28-02-2024
+106,Anjali Gupta,anjali.gupta@email.com,Lucknow,Uttar Pradesh,14-04-2024
+107,Rajesh Nair,rajesh.nair@email.com,Kochi,Kerala,30-06-2024
+108,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,19-08-2024
+109,Suresh Rao,suresh.rao@email.com,Bangalore,Karnataka,05-09-2024
+110,Kavita Joshi,kavita.joshi@email.com,Pune,Maharashtra,12-10-2024
+111,Deepak Verma,deepak.verma@email.com,Chandigarh,Punjab,20-11-2024
+112,Pooja Agarwal,pooja.agarwal@email.com,Kolkata,West Bengal,01-12-2024
+113,Manish Tiwari,manish.tiwari@email.com,Bhopal,Madhya Pradesh,15-01-2025
+114,Swati Desai,swati.desai@email.com,Surat,Gujarat,22-02-2025
+115,Arjun Menon,arjun.menon@email.com,Trivandrum,Kerala,10-03-2025
+116,Nisha Kapoor,nisha.kapoor@email.com,Nagpur,Maharashtra,18-04-2025
+117,Rohit Saxena,rohit.saxena@email.com,Indore,Madhya Pradesh,25-05-2025
+118,Anita Bhatt,anita.bhatt@email.com,Dehradun,Uttarakhand,30-06-2025
+119,Karthik Pillai,karthik.pillai@email.com,Coimbatore,Tamil Nadu,14-07-2025
+120,Divya Sharma,divya.sharma@email.com,Noida,Uttar Pradesh,20-08-2025
